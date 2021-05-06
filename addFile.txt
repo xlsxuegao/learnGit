@@ -1,2 +1,2 @@
-git add <file name>
+git modify add <file name>
 git commit -m <message>
