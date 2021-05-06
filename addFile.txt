@@ -1,2 +1,3 @@
 git modify add <file name>
 git commit -m <message>
+append GPL
