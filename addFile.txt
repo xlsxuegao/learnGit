@@ -2,3 +2,4 @@ git modify add <file name>
 git commit -m <message>
 append GPL
 yueer ming feng er qing
+成员二提交代码了
